@@ -20,17 +20,17 @@ public class Ex04 {
 		String str = "안녕하세요";
 		System.out.println(str); //글을 쓸때는 string 사용
 		
-		String number;
+		String number; //객체를 가지면 string
 		String name;
 		boolean isEnorlled;
-		double grade;
+		double grade; //학년 여러가지 방면에서 소수점 등 있을수있음
 		String address;
 		String major;
 		int unit;
-		boolean haveMinor;
+		boolean haveMinor; //전공이 있나없나 유무
 		String juminNo;
 		String cellphone;
-		int age;
+		int age;//메소드 없이 값만
 		String email;
 		
 	}
